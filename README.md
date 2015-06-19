@@ -15,6 +15,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ### Scripts:
 run_analysis.R
+
 Accomplishes the following tasks:
 
 1. Merges the training and the test sets to create one data set.
