@@ -2,12 +2,12 @@
 This repository contains the scripts and documentation associated with the
 Getting and Cleaning Data Course Project
 
-## Data:
+### Data:
 Human Activity Recognition Using Smartphones Data Set
-Link: 
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-Description:
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+*Link: 
+*https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+*Description:
+*http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 ## Scripts:
 run_analysis.R
