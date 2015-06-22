@@ -41,3 +41,8 @@ all_data bind all the data in a single data set
 
 Tidy_Data <- ddply(all_data, .(Subject, Activity), function(x) colMeans(x[, 1:66]))
 
+### Data
+
+Output file - Tidy_Data.txt
+
+Clean file grouped by Subject and activity showing averages for each variable
